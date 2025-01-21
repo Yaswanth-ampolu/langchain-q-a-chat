@@ -47,4 +47,4 @@ This repository contains a Jupyter Notebook implementation of a Retrieval-Augmen
 This project is licensed under the MIT License.
 
 ## DEMO
-
+[View Demo Video](https://drive.google.com/file/d/10BYAShvMjh_pUDUIfxDuQ2m2zDVdkvlO/view) 
